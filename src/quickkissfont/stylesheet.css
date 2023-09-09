@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Quick Kiss Personal Use';
+    src: url('QuickKissPersonalUse.woff2') format('woff2'),
+        url('QuickKissPersonalUse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
